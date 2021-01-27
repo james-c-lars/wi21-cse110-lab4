@@ -14,8 +14,8 @@
 12. A list of length `prices.length` filled with 0s will be returned. This is because `finalPrice` will be pushed to the list with each iteration of the for loop, and since it is a const value it will never change from `0`.
 
 13.
-	A. `student.name`
-	B. `student['Grad Year']`
-	C. `student.greeting()`
-	D. `student['Favorite Teacher'].name`
-	E. `student.courseLoad[0]`
+	1. `student.name`
+	2. `student['Grad Year']`
+	3. `student.greeting()`
+	4. `student['Favorite Teacher'].name`
+	5. `student.courseLoad[0]`
